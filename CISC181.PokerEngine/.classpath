@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HibernateLib"/>
+	<classpathentry kind="lib" path="C:/Users/chris/Documents/Hibernate Files/JDBC Oracle/ojdbc14dms.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chris/Documents/Hibernate Files/JDBC Oracle/ojdbc7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
